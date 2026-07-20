@@ -1,0 +1,32 @@
+[
+  {
+    "category": "Training",
+    "priority": "High",
+    "summary": "The team is concerned about adoption rates for the Q3 AI rollout and requires a training plan by Friday.",
+    "action": "Develop and submit a comprehensive training plan by the end of the week."
+  },
+  {
+    "category": "Technical Issue",
+    "priority": "High",
+    "summary": "User is unable to access the AI writing tool following an update that occurred Monday morning.",
+    "action": "Investigate the update logs and check for any reported issues related to the AI writing tool."
+  },
+  {
+    "category": "Strategy",
+    "priority": "High",
+    "summary": "Leadership requires an ROI report on AI tools, necessitating data collection and interviews with department heads.",
+    "action": "Schedule interviews with department heads and start pulling usage data immediately."
+  },
+  {
+    "category": "Integration",
+    "priority": "High",
+    "summary": "The team is inquiring about the possibility of integrating the AI tool with Salesforce to streamline their workflow.",
+    "action": "Investigate the integration capabilities of the AI tool with Salesforce and provide guidance on how to set it up."
+  },
+  {
+    "category": "Feedback",
+    "priority": "Medium",
+    "summary": "The workshop received positive feedback, with most employees feeling more confident in using AI.",
+    "action": "Arrange a follow-up session focused on prompt writing for the two employees who requested it."
+  }
+]

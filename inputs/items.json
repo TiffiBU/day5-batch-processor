@@ -1,0 +1,7 @@
+[
+  {"id": 1, "type": "meeting_notes", "content": "Discussed Q3 AI rollout. Team concerned about adoption rates. Need training plan by Friday. Budget approved for 50 licences."},
+  {"id": 2, "type": "support_ticket", "content": "User cannot access the AI writing tool. Has tried logging out and back in. Issue started Monday morning after the update."},
+  {"id": 3, "type": "meeting_notes", "content": "Leadership want ROI report on AI tools by end of month. Need to pull usage data and interview department heads."},
+  {"id": 4, "type": "support_ticket", "content": "Team asking if AI tool can integrate with Salesforce. Current workflow requires manual copy paste between systems."},
+  {"id": 5, "type": "meeting_notes", "content": "Workshop feedback positive. 8 out of 10 employees felt more confident using AI after session. Two requested follow up on prompt writing."}
+]
